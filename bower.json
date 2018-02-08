@@ -3,7 +3,7 @@
   "version": "0.0.4",
   "description": "Converts PCRE regexp strings to JavaScript RegExp instances",
   "main": "index.js",
-  "dependencies": {
+  "devDpendencies": {
     "mocha": "2"
    }
 }
